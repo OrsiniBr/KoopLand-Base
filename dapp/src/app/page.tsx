@@ -22,10 +22,7 @@ export default function Home() {
             </h2>
             <p className="text-lg text-muted-foreground mb-8 max-w-2xl mx-auto">
               Every idea is rated by AI for originality and value. Buy
-              seamlessly using any cryptocurrency through our sponsor{" "}
-              <span className="font-bold text-foreground text-xl">
-                SideShift
-              </span>{" "}
+              seamlessly using any cryptocurrency 
               - the direct-to-wallet crypto exchange.
             </p>
             <Link href="/marketplace">
@@ -68,7 +65,7 @@ export default function Home() {
                 </h3>
                 <p className="text-muted-foreground">
                   Pay with any cryptocurrency through{" "}
-                  <span className="font-semibold">SideShift</span>, supporting
+                  {/* <span className="font-semibold">SideShift</span>, supporting */}
                   BTC, ETH, USDC, and more.
                 </p>
               </div>
